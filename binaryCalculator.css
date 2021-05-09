@@ -1,0 +1,10 @@
+.body{
+    width:33%;
+}
+.bodyelement{
+    width:25%;
+    height:36px;
+    font-size:18px;
+    margin:0px;
+    float:left;
+}
